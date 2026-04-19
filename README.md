@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Meu nome é Gabriel de Paula Rezende da Cruz, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas em um Centro Universitário Celso Lisboa. Sou apaixonado por tecnologia e tenho grande interesse em compartilhar conhecimentos com outras pessoas.
+Meu nome é Gabriel de Paula Rezende da Cruz, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas no Centro Universitário Celso Lisboa. Sou apaixonado por tecnologia e tenho grande interesse em compartilhar conhecimentos com outras pessoas.
 
 ---
 
