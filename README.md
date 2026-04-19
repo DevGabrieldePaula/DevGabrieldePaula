@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel de Paula
+# 🧑🏻‍💻 Gabriel de Paula
 
 **`Desenvolvedor Backend`**
 
